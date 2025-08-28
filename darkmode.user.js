@@ -26,7 +26,7 @@
         contrast: 1.1,
         brightness: 0.9,
         sepia: 0.1,
-        excludeHosts: 'github.com,google.com,bilibili.com,youtube.com,x.com,zhihu.com',
+        excludeHosts: 'github.com,google.com,bilibili.com,youtube.com,x.com,zhihu.com,coinglass.com,yahoo.com',
         excludeSelectors: [
             'img[src*="logo"]',
             'img[alt*="logo"]',
